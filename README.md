@@ -1,0 +1,2 @@
+# SeqSorcerer
+Automated RNASeq Pipeline
